@@ -56,7 +56,7 @@ async function ShowData() {
   
    <nav>
         <div class="nav">
-          <h1>IP Address : <span id="IpAdd">10.24.147.245</span></h1>
+          <h1>IP Address : <span id="IpAdd">160.238.92.110</span></h1>
 
           <div class="information">
             <div class="lat">
@@ -68,7 +68,7 @@ async function ShowData() {
               <h1>Region:${"  " + locationData.region}</h1>
             </div>
             <div id="organisation">
-              <h1>Organisation:${"  "}GTPL KCBPL (NCVN),katwa</h1>
+              <h1>Organisation:${"  "}GTPL KCBPL </h1>
               <h1>Hostname:${"  "}Maijuddin Mallick</h1>
             </div>
           </div>
